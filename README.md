@@ -1,18 +1,7 @@
-## Getting Started
+This is project Wordle (but in Java).
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The team consists of myself, Marco Orallo.
 
-## Folder Structure
+What I'm trying to build is a replica of wordle, I want to build it because it seems simple enough but has complex features that are difficult to find when it comes to other projects which helps make the project seem unique. I plan on this program to be used for entertainment purposes and a project to help me learn more about Java.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The plan is to work slowly and gain information on the structure of Wordle, the effort is 90% on me and the rest is up to online resources and friends that are knowledgeable about coding to give me pointers.
