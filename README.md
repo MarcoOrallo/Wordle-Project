@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=MKOv-gvaUI8
 - https://medium.com/strategio/build-a-wordle-clone-in-java-c7b7b924fb8d
 - https://www.youtube.com/watch?v=B4t0Y40U4HI&t=0s
 - https://www.youtube.com/watch?v=JYv26qc_m0c
-- https://www.youtube.com/watch?v=7ZpC_lOh6uA
+- https://www.youtube.com/watch?v=7ZC_lOh6uA
 - ChatGPT
 - Bard
 
