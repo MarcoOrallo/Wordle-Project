@@ -15,7 +15,7 @@ The plan is to work slowly and gain information on the structure of Wordle, the 
 
 ## What is Wordle:
 My program is based off of the popular web browser game Wordle that was published by the New York Times. The premise of Wordle is to guess a randomly generated 5-letter word in which you have six guesses to get right. As you guess words, the program gives you hints by color-coding the letter either black, green, or yellow to indicate whether the letter in the word you guessed is in the randomly generated word that you are trying to guess. Black means the letter isn't in the word, yellow means the letter is in the word but not in the right place, and green means that the letter is in the word and in the right spot. The game ends if you either go through all 6 guesses without getting the word or you guess the word before the six tries.
-## How to run:
+## How to run/use:
 
 1) Install everything you see in the GitHub repository and ensure you have both .txt files and the source code.
 2) Since the entirety of the GUI is in Java Swing, you should be able to simply hit run and the application will load on your screen.
