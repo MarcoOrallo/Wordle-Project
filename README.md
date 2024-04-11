@@ -1,7 +1,7 @@
 # Wordle (But in Java)
 
 ## Team:
-Marco Orallo
+Marco Orallo,
 morallo@oakland.edu
 
 ## Purpose:
