@@ -26,7 +26,9 @@ My program is based off of the popular web browser game Wordle that was publishe
 6) The game ends when you either guess the word before you run out of tries or you run out of tries guessing the word.
 ## Video Presentation:
 
-https://www.youtube.com/watch?v=MKOv-gvaUI8
+- https://www.youtube.com/watch?v=MKOv-gvaUI8
+
+I go over the full functionality of my program and breifly over the code.
 ## Credit:
 
 - https://github.com/PragmaticCoding/WordleFX
