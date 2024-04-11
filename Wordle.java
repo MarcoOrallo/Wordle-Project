@@ -1,3 +1,5 @@
+// Credit given to respective parts in repo
+// Enjoy!
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
@@ -9,7 +11,7 @@ import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.*;
 public class Wordle extends JFrame implements ActionListener {
-
+    
     private static JPanel panel;
     private static JFrame frame;
 
@@ -33,6 +35,7 @@ public class Wordle extends JFrame implements ActionListener {
 
 	public static void main(String[] args) {
 
+        // some basic GUI stuff like setting the stage
         panel = new JPanel();
         frame = new JFrame();
         frame.setSize(550, 600);
@@ -76,7 +79,7 @@ public class Wordle extends JFrame implements ActionListener {
 
     public static void StartWordle() {
         //makes an array of the possible words from wordleWords text file
-        possibleWords = new String[12947];
+        possibleWords = new String[12947]; //12947 because thats the number of words in the file
         try { 
             File myObj = new File("Words.txt");
             Scanner myReader = new Scanner(myObj);
@@ -92,7 +95,8 @@ public class Wordle extends JFrame implements ActionListener {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
-
+        
+        // starts timer that you see after you win/lose
         startTime = System.currentTimeMillis();
         tries = 0;
         System.out.println("Wordle: Type A Five Letter Word");
